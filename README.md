@@ -10,3 +10,6 @@ For a detailed explaination of the entire procedure, kindly refer to:
 
 1. Medium article: https://medium.com/@mypatronusisacheetah7/schneider-electric-energy-consumption-time-series-forecasting-6e140eb169a8
 2. YouTube video: https://www.youtube.com/watch?v=qZuC-wVItAY&feature=emb_logo
+
+
+(The csv dataset was removed due to copyright issues)
